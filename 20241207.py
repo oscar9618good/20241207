@@ -9,7 +9,7 @@ print(math.factorial(8)) #8階(8!)
 X=3*10
 Y=4*5
 print(X*X)
-
+ 
 X=12
 X=6
 print(X)  #6,輸出下方最新賦值
